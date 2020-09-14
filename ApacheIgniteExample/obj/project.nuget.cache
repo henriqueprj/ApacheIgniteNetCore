@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeNyso12c6M/pZBwFDkdjlzlSxwqS6P4eJpv+qi9WLrZAYHP3wPtHtMKYwXU5tiozyTO4xm8a0mZVGfrIHvHDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\u002910\\source\\repos\\ApacheIgniteExample\\ApacheIgniteExample\\ApacheIgniteExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u002910\\.nuget\\packages\\apache.ignite\\2.8.1\\apache.ignite.2.8.1.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.90\\oracle.manageddataaccess.core.2.19.90.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\u002910\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

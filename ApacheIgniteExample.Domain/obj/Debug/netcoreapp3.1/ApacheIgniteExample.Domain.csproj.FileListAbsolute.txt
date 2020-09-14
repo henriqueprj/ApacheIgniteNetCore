@@ -1,9 +1,0 @@
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\bin\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.deps.json
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\bin\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.dll
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\bin\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.pdb
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\obj\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.AssemblyInfoInputs.cache
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\obj\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.AssemblyInfo.cs
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\obj\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.csproj.CoreCompileInputs.cache
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\obj\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.dll
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\obj\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.pdb
-C:\Users\u002910\source\repos\ApacheIgniteExample\ApacheIgniteExample.Domain\obj\Debug\netcoreapp3.1\ApacheIgniteExample.Domain.csprojAssemblyReference.cache

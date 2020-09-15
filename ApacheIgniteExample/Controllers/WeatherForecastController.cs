@@ -27,7 +27,6 @@ namespace ApacheIgniteExample.Controllers
             _logger = logger;
             _repository = repository;
             _repository.LoadCache(null);
-            _cache.GetAndPut();
         }
 
         [HttpPost]

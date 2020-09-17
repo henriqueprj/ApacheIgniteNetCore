@@ -2,7 +2,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ApacheIgniteExample.Domain.Commands.Balance
+namespace ApacheIgniteExample.Domain.UseCases.Balance
 {
     public class GetBalance
     {
